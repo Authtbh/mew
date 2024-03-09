@@ -61,7 +61,7 @@ For detailed usage instructions, explore the help message with `mew --help`.
 
 - Create a new category:
   ```bash
-mew add "Finish report" 
+          mew add "Finish report" 
 ```
 
 ##For more type mew -help
