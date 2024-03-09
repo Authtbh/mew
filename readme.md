@@ -8,7 +8,7 @@ Mew is a command-line interface (CLI) Todo List application written in Rust. It 
 
 
 
-##Installation
+## Installation
 
 - **For Windows**
 - Download the release mew.exe and paste it into `C:\Windows\System32`
